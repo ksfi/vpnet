@@ -1,2 +1,2 @@
 # VPNet
-Net to get the vanishing point from dense optical flow
+Net to get the vanishing point from dense optical flow input
